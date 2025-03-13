@@ -1,0 +1,37 @@
+{
+  "name": "leonmmcoset/monkey-lang",
+  "description": "Chinese language pack for Flarum.",
+  "keywords": [
+    "flarum",
+    "locale",
+    "extension",
+    "MonkeyLanguage",
+    "猴子语",
+    "猴子语"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "LeonMMcoset",
+      "email": "LeonMMcoset@outlook.com",
+      "homepage": "https://github.com/LeonMMcoset"
+    }
+  ],
+  "support": {
+    "source": "https://github.com/Leonmmcoset/flarum-ext-monkey-lang"
+  },
+  "require": {
+    "flarum/core": "^1.0.0"
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "猴子语",
+      "category": "language"
+    },
+    "flarum-locale": {
+      "code": "monkey",
+      "title": "🐒🐒🐒🐒🐒"
+    }
+  }
+}
