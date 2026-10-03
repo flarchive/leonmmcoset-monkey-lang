@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of leonmmcoset/monkey-lang.** Not for installation: use [Packagist](https://packagist.org/packages/leonmmcoset/monkey-lang) or the [upstream repository](https://github.com/Leonmmcoset/flarum-ext-monkey-lang).
 
-**0** versions archived · Latest: [`0.0.2`](https://github.com/flarchive/leonmmcoset-monkey-lang/tree/archive/v0.0.2) · License: `MIT` · Flarum: `^1.0.0`
+**2** versions archived · Latest: [`0.0.2`](https://github.com/flarchive/leonmmcoset-monkey-lang/tree/archive/v0.0.2) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2025-03-13 | `^1.0.0` | [Browse](https://github.com/flarchive/leonmmcoset-monkey-lang/tree/archive/v0.0.1) |
+| `0.0.2` | 2025-03-13 | `^1.0.0` | [Browse](https://github.com/flarchive/leonmmcoset-monkey-lang/tree/archive/v0.0.2) |
 
 Catalog entry: [packages/leonmmcoset-monkey-lang.json](https://github.com/flarchive/archive-index/blob/main/packages/leonmmcoset-monkey-lang.json)
 
